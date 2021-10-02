@@ -56,3 +56,17 @@ _Software engineer based in Wroclaw, Poland_ <br>
   - Development of websites in PHP
   - **_Technologies used:_** Laravel, PHP, MySQL, Javascript, Java, Spring Boot, Angular 2.
 <br><br>
+
+## 💬 Languages
+
+**Portuguese**: Native <br>
+**English**: B2
+<br><br>
+
+## 👩🏼‍🎓 Education
+
+**Graduate in Architecture of Web Systems, 2019** <br>
+[Centro Universitário 7 de Setembro](https://www.uni7.edu.br/) - Fortaleza, Brazil <br>
+
+**Undergraduate in Analysis and Development of Systems, 2016** <br>
+[Faculdade Lourenço Filho](https://flf.edu.br/) - Fortaleza, Brazil <br>
