@@ -40,3 +40,16 @@ _Software engineer based in Wroclaw, Poland_ <br>
   - Meetings with stakeholders to define use cases and get better details of use cases already specified.
   - **_Technologies used:_** Angular 4, Typescript, SASS, Ionic, Java, JPA, CDI, EJB, Oracle 10g, Jboss Wildfly 10
 <br><br>
+
+**Software Developer** @ INCLUDE TECNOLOGIA _(Jun 2017 - Out 2017)_ <br>
+📍 Fortaleza, Brazil
+  - 
+  - **_Technologies used:_** 
+<br><br>
+
+
+**Software Developer** @ BORN85 _(Jan 2016 - Dec 2017)_ <br>
+📍 Fortaleza, Brazil
+  - 
+  - **_Technologies used:_** 
+<br><br>
