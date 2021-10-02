@@ -63,7 +63,7 @@ _Software engineer based in Wroclaw, Poland_ <br>
 **English**: B2
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Graduate in Architecture of Web Systems, 2019** <br>
 [Centro Universitário 7 de Setembro](https://www.uni7.edu.br/) - Fortaleza, Brazil <br>
