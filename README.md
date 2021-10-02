@@ -43,13 +43,16 @@ _Software engineer based in Wroclaw, Poland_ <br>
 
 **Software Developer** @ INCLUDE TECNOLOGIA _(Jun 2017 - Out 2017)_ <br>
 📍 Fortaleza, Brazil
-  - 
-  - **_Technologies used:_** 
+  - Development of websites in PHP
+  - Maintenance in a legacy software based in Java and JSF.
+  - Implementation of a Rest API.
+  - **_Technologies used:_** Laravel, PHP, MySQL, Javascript, PostgreSQL, Java, JSF, JPA, JAX-RS. 
 <br><br>
 
 
 **Software Developer** @ BORN85 _(Jan 2016 - Dec 2017)_ <br>
 📍 Fortaleza, Brazil
-  - 
-  - **_Technologies used:_** 
+  - Migration of a Delphi based software to a web platform.
+  - Development of websites in PHP
+  - **_Technologies used:_** Laravel, PHP, MySQL, Javascript, Java, Spring Boot, Angular 2.
 <br><br>
