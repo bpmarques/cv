@@ -25,7 +25,7 @@ _Software engineer based in Wroclaw, Poland_ <br>
   - Maintenance and development of new features in a REST API using Spring.
   - Maintenance in the legacy Frontend project using AngularJS.
   - Migration of the Frontend to Angular 7.x(latest version at that time).
-  - Write functions in NodeJS to run in the IBM Open Whisky FaaS platform.
+  - Write functions in NodeJS to run at IBM Cloud.
   - Development of a Timeseries API using Spring and an SDK in Java for integration with the main API.
   - Mentoring for an internship that was developing a small mobile project using native technologies.
   - **_Technologies used:_** AngularJS, Angular 7, TypeScript, SASS, Java, Spring Boot, IBM Cloud, NodeJS, IBM Cloudant, MongoDB.
